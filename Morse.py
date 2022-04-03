@@ -1,7 +1,7 @@
 from sense_hat import SenseHat
 import os
 import time
-import pygame  # See http://www.pygame.org/docs
+import pygame  
 from pygame.locals import *
 
 #one unit
