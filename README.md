@@ -1,2 +1,2 @@
 # MorsePi
-Learn Morse code using Raspberry Pi and Sense HAT !
+Learn Morse code using Raspberry Pi and Sense HAT!
