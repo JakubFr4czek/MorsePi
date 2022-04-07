@@ -3,7 +3,7 @@ Learn Morse code using Raspberry Pi and Sense HAT!
 MorsePi is a fun way to learn how to encode letters and signs in Morse Code. Morse Code is used to encode letters and signs and consists of dots and dashes. Firstly, you have to find a Morse Code cheat sheet, which can be found literally everywhere on the internet. Then you can encode a message using a joystick located on Sense HAT, one short click stands for dot, and one long click stands for dash, they are interpreted and presented to you on a led matrix as shown below:
 
 Dot
-![Screenshot](1.jpg)
+# ![Screenshot](1.jpg)
 
 Dash
 ![Screenshot](4.jpg)
