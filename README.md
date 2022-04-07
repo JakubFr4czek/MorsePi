@@ -4,10 +4,14 @@ MorsePi is a fun way to learn how to encode letters and signs in Morse Code. Mor
 # 
 Dot
 ![Screenshot](1.jpg)
+#
 Dash
 ![Screenshot](4.jpg)
+#
 After you finish encoding a message (when you stop clicking joystick), encoded letter will show on led matrix:
 ![Screenshot](3.jpg)
+#
 However if you will try to encode wrong letter, led matrix will flash in red:
 ![Screenshot](2.jpg)
+#
 Watch a video to learn more: https://youtu.be/BzQDh_Ko8YM
