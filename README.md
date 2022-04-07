@@ -9,4 +9,4 @@ After you finish coding a message (when you stop clicking joystick), encoded let
 ![Screenshot](3.jpg)
 However if you will try to encode wrong letter, led matrix will flash in red:
 ![Screenshot](2.jpg)
-Watch a wideo to learn more: https://youtu.be/BzQDh_Ko8YM
+Watch a video to learn more: https://youtu.be/BzQDh_Ko8YM
